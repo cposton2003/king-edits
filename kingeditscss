@@ -1,3 +1,4 @@
+<style>
 body{
   font-family:Times New Roman;
   background-color: blue;
@@ -69,3 +70,4 @@ div-projects{
   align-items: center;
   justify-content: center;
 }
+</style>
